@@ -13,4 +13,4 @@ Link to Autocorrect Tool : https://github.com/AngelMushahary2004/BharatIntern_Ta
 
 TASK3 : Resume Parser
 
-Link to Resume Parser : 
+Link to Resume Parser : https://github.com/AngelMushahary2004/BharatIntern_Tasks/blob/main/Resume%20Parser.py
