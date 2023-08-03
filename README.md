@@ -6,3 +6,7 @@ Artificial Intelligence related tasks.
 TASK1 : Translator GUI
 
 Link to Translator GUI : https://github.com/AngelMushahary2004/BharatIntern_Tasks/blob/main/Translatorapp.py 
+
+TASK2 : Autocorrect Tool
+
+link to Autocorrect Tool : 
