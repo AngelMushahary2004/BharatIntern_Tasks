@@ -9,4 +9,8 @@ Link to Translator GUI : https://github.com/AngelMushahary2004/BharatIntern_Task
 
 TASK2 : Autocorrect Tool
 
-link to Autocorrect Tool : 
+Link to Autocorrect Tool : https://github.com/AngelMushahary2004/BharatIntern_Tasks/blob/main/Autocorrect_Tool.py
+
+TASK3 : Resume Parser
+
+Link to Resume Parser : 
